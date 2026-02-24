@@ -1,0 +1,3 @@
+TEST
+
+ONLY FOR TESTS
